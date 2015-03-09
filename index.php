@@ -71,7 +71,7 @@ body {
     <td bgcolor="1f7d78">&nbsp;</td>
   </tr>
   <tr>
-    <td bgcolor="1f7d78"><div align="center"><span class="STYLE1">-- 新疆农业大学 计科082班 余荣需--</span></div></td>
+    <td bgcolor="1f7d78"><div align="center"><span class="STYLE1">-- ganbu--</span></div></td>
   </tr>
 </table>
  </form>
